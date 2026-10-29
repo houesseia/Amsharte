@@ -1,0 +1,6 @@
+{
+  "name": "AMSHARTE - Amis du Monde pour la Sauvegarde de l'Hygiène, de la Santé Sécurité au Travail en Milieu Rural Artisanal et Environnemental",
+  "description": "Portail officiel de l'ONG AMSHARTE - Amis du Monde pour la Sauvegarde de l'Hygiène, de la Santé Sécurité au Travail en Milieu Rural Artisanal et Environnemental : protection des tortues de Togbin, patrouilles Police BPLP, rapports et gouvernance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
